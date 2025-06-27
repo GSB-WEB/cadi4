@@ -79,7 +79,7 @@ col1, col2 = st.columns([1, 4])
 with col1:
     st.metric("Progreso", f"{progreso}/{len(preguntas)}")
 with col2:
-    st.progress(progreso / len(preguntas), 
+    st.progress(progreso / len(preguntas)) 
 
 # --- Lógica principal ---
 if not st.session_state.finalizado:

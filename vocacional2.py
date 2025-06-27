@@ -60,7 +60,7 @@ st.set_page_config(page_title="Test Vocacional", page_icon="🧭", layout="cente
 with st.sidebar:
     st.header("ℹ️ Acerca de este test")
     st.markdown("""
-    Aunque este test vocacional orientará a ubicar un perfil profesional, recuerda siempre consultar a los expertos:
+    Aunque este test vocacional te orientará a ubicar un perfil profesional, recuerda siempre consultar a los expertos:
     - **Científico** 🔬
     - **Artístico** 🎨
     - **Técnico** 🔧

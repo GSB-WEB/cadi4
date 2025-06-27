@@ -71,7 +71,7 @@ with st.sidebar:
 
 # --- Título y progreso ---
 st.title("🧭 ¿Por definir tu futuro profesional?")
-st.markdown("Descubre tu perfil profesional con este sencillo test de 6 preguntas.")
+st.markdown("Considera que este cuestionario es solo de ayuda. No olvides consultar a los experos profesionales")
 
 # Barra de progreso mejorada
 progreso = len(st.session_state.respuestas)

@@ -60,7 +60,7 @@ st.set_page_config(page_title="Test Vocacional", page_icon="🧭", layout="cente
 with st.sidebar:
     st.header("ℹ️ Acerca de este test")
     st.markdown("""
-    Este test vocacional te ayudará a identificar tu perfil profesional predominante entre:
+    Aunque este test vocacional orientará a ubicar un perfil profesional, recuerda siempre consultar a los expertos:
     - **Científico** 🔬
     - **Artístico** 🎨
     - **Técnico** 🔧
